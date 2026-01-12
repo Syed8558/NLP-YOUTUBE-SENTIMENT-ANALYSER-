@@ -1,0 +1,34 @@
+==============================
+LIVE YOUTUBE SENTIMENT ANALYSIS
+==============================
+
+Comment: cant believe 6 years ago, this movie brought the whole world together for a few days.
+Sentiment: Positive | Rating: 5⭐ | Confidence: 0.71
+------------------------------------------------------------
+Comment: 11th January 2026<br>11 months and 6 days to Doomsday
+Sentiment: Negative | Rating: 1⭐ | Confidence: 0.76
+------------------------------------------------------------
+Comment: Doctor Doom is under disguise as iron man huh
+Sentiment: Neutral | Rating: 3⭐ | Confidence: 0.26
+------------------------------------------------------------
+Comment: Here in 2026?
+Sentiment: Negative | Rating: 1⭐ | Confidence: 0.4
+------------------------------------------------------------
+Comment: Anyone in 2026?
+Sentiment: Negative | Rating: 1⭐ | Confidence: 0.54
+------------------------------------------------------------
+Comment: 👁️👁️
+Sentiment: Positive | Rating: 5⭐ | Confidence: 0.31
+------------------------------------------------------------
+Comment: Still gives me goosebumps
+Sentiment: Positive | Rating: 4⭐ | Confidence: 0.38
+------------------------------------------------------------
+Comment: I&#39;m watching this 6 years Later and  it&#39;s giving ai generated trailer
+Sentiment: Negative | Rating: 1⭐ | Confidence: 0.28
+------------------------------------------------------------
+Comment: 10th January 2026<br>11 months and 7 days to Doomsday
+Sentiment: Negative | Rating: 1⭐ | Confidence: 0.71
+------------------------------------------------------------
+Comment: Only two Avengers films left
+Sentiment: Negative | Rating: 1⭐ | Confidence: 0.29
+------------------------------------------------------------
